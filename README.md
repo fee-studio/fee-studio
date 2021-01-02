@@ -1,5 +1,5 @@
 ### Hi there 👋
-** BRING IT ON 2021 **
+**BRING IT ON 2021**
 
 <!--
 **fee-studio/fee-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
