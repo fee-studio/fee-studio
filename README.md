@@ -1,9 +1,7 @@
 ### Hi there 👋
 **BRING IT ON 2021**
 
-https://github-readme-stats.vercel.app/api?username=fee-studio&count_private=true&show_icons=true&theme=radical
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fee-studio)](https://github.com/fee-studio)
+[![FeeStudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fee-studio&count_private=true&show_icons=true&theme=radical)](https://github.com/fee-studio)
 
 <!--
 **fee-studio/fee-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
