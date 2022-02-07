@@ -1,5 +1,5 @@
 ### Hi there 👋
-**BRING IT ON 2021**
+**BRING IT ON 2022**
 
 [![FeeStudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fee-studio&count_private=true&show_icons=true&theme=radical)](https://github.com/fee-studio)
 
